@@ -1,0 +1,5 @@
+
+streamlit
+openai
+gtts
+audio_recorder_streamlit
